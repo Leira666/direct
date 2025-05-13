@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">direct</string>
+    <string name="email">email</string>
+    <string name="password">contrasena</string>
+    <string name="login">login</string>
+    <string name="forgot_password">olvide contrasena</string>
+    <string name="register">registro</string>
+    <string name="o_inicia_sesi_n_con">O inicia sesión con</string>
+    <string name="escanear_qr_de_asistencia">Escanear QR de Asistencia</string>
+    <string name="ver_historial">Ver Historial</string>
+</resources>
